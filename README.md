@@ -53,7 +53,9 @@ This project is a Ruby on Rails application that serves as an endpoint API for g
 
   - **[Rails API Setup]
   - **[Random Message Generation]
-  - **[API Communication]
+  - **[Database Storage]
+  - **[CORS Handling]
+  - **[Separate Repositories]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
