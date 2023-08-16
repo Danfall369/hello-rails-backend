@@ -23,7 +23,7 @@
 # 📖 [Hello React Rails Backend] `[Ruby on Rails]` <a name="about-project"></a>
 
 
-This project is a Ruby on Rails application that serves as an endpoint API for generating and delivering random messages. This API is designed to be utilized as the backend for another project, acting as the frontend, located in a separate repository that you can fin in here:
+This project is a Ruby on Rails application that serves as an endpoint API for generating and delivering random messages. This API is designed to be utilized as the backend for another project, acting as the frontend, located in a separate repository that you can find here:
 
 <a href="https://github.com/Danfall369/hello-react-front-end">Hello React Frontend Repository</a>
 
