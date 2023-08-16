@@ -104,7 +104,7 @@ executing the command `rails s -p 3001`
 and then go the URL:
 
 ```sh
-localhost:3001
+localhost:3001/api/v1/messages
 ```
 
 
